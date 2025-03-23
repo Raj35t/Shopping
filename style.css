@@ -1,0 +1,40 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 100;
+    padding: 50;
+    
+    background-color: #bcb5d0;
+    color: #624848;
+}
+
+
+/* Header */
+h1, h2 {
+    text-align: center;
+    color: #9a2c2c62;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #0056b3;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff5733;
+}
+
+/* Product List */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 15px;
+    padding: 10px;
+    border: 11px solid #ddd;
+    border
+}
